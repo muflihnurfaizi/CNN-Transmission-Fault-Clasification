@@ -1,0 +1,201 @@
+model 87
+PARAMS = {'epoch': 1000,
+          'filter': 64,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+
+model 88
+PARAMS = {'epoch': 100,
+          'filter': 64,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 89
+PARAMS = {'epoch': 10,
+          'filter': 64,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 90
+PARAMS = {'epoch': 1000,
+          'filter': 32,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 91
+PARAMS = {'epoch': 100,
+          'filter': 32,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 92
+PARAMS = {'epoch': 10,
+          'filter': 32,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 93
+PARAMS = {'epoch': 1000,
+          'filter': 128,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 94
+PARAMS = {'epoch': 100,
+          'filter': 128,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 95
+PARAMS = {'epoch': 10,
+          'filter': 128,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 96
+PARAMS = {'epoch': 1000,
+          'filter': 256,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 97
+PARAMS = {'epoch': 100,
+          'filter': 256,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 98
+PARAMS = {'epoch': 10,
+          'filter': 256,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 99
+PARAMS = {'epoch': 1000,
+          'filter': 16,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 100
+PARAMS = {'epoch': 100,
+          'filter': 16,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 101
+PARAMS = {'epoch': 10,
+          'filter': 16,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 102
+PARAMS = {'epoch': 500,
+          'filter': 32,
+          'kernel': 2,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 103
+PARAMS = {'epoch': 500,
+          'filter': 32,
+          'kernel': 3,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 104
+PARAMS = {'epoch': 500,
+          'filter': 32,
+          'kernel': 5,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 105
+PARAMS = {'epoch': 500,
+          'filter': 32,
+          'kernel': 7,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
+model 106
+PARAMS = {'epoch': 500,
+          'filter': 32,
+          'kernel': 11,
+          'pool_size': 2,
+          'Dropuot': 0.5,
+          'Dense':128,
+          'Activation Function 1D': "relu",
+          'Activation Function Dense': "relu"
+          }
